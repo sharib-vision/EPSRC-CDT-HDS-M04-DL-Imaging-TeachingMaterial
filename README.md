@@ -10,3 +10,4 @@
 - [UNet implementation exercise](https://github.com/sharibox/HDS-CDT-DLModule/blob/main/HDS-CDT2021_CNN_Segmentation-Exercise-III-ImplementUNet.ipynb)
 - [Lecture slides 2020: Introduction to deep learning](https://drive.google.com/file/d/1QaDn-VFG-3SyCk-KFcMRW1JmgOHq-hRJ/view?usp=sharing)
 - Lecture slides 2021 (upon request or refer to [canvas](https://canvas.ox.ac.uk/courses/124779/pages/hds-m04-module-info-deep-learning?module_item_id=1342330))
+- [Tutorials on transfer learning and attention networks](https://github.com/sharibox/HDS-CDT-DLModule/tree/main/tutorials)
