@@ -2,7 +2,7 @@
 
 **Prepared by, practical leader and lecturer:** [Sharib Ali](sharib.ali@eng.ox.ac.uk)
 
-**Course materials from:** 2020, 2021
+**Course materials from taught in:** 2020, 2021
 
 **About the course:** You will find deep learrning basic ingrediants to advanced DL teaching materials. 
 
