@@ -2,7 +2,7 @@
 
 **Prepared by, practical leader and lecturer:** [Sharib Ali](sharib.ali@eng.ox.ac.uk)
 
-**About course:** You will find deep learrning basic ingrediants (taught) to advanced DL teaching materials.
+**About the course:** You will find deep learrning basic ingrediants to advanced DL teaching materials. 
 
 - [Playing with ingrediants of deep learning](https://github.com/sharibox/HDS-CDT2020/blob/main/HDS-CDT2020_Basic_DNN_ingrediants.ipynb)
 - [Learn to make simple MLP and CNN network](https://github.com/sharibox/HDS-CDT2020/blob/main/HDS-CDT2020_DNN_CNN_Classification_Exercise.ipynb)
