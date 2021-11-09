@@ -15,3 +15,6 @@
 - [Lecture slide 2021: How to improve your DL network?](https://drive.google.com/file/d/11z3R92gprvVbNVS20h1Mm3YvEhTJYnEA/view?usp=sharing)
 - Other DL Lecture slides 2021 (upon request or refer to [canvas](https://canvas.ox.ac.uk/courses/124779/pages/hds-m04-module-info-deep-learning?module_item_id=1342330))
 - [Tutorials on transfer learning and attention networks](https://github.com/sharibox/HDS-CDT-DLModule/tree/main/tutorials)
+
+
+Special acknowledgement to the available resources from **Standford CS231n** and **Coursera lectures from Andrew Ng**.
