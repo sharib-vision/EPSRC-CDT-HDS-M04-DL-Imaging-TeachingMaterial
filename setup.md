@@ -1,4 +1,4 @@
-#### HDS-M05: Deep Learning
+#### HDS-M04: Deep Learning
 
 - Login to your VM with GPU (*interactive for jupyter-notebook*)
 
