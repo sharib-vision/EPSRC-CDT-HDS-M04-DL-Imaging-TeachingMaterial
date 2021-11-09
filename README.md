@@ -1,4 +1,4 @@
-### Module on Deep Learning for Imaging: EPSRC Centre for Doctoral Training in Health Data Science
+### Module on Deep Learning for Imaging: EPSRC Centre for Doctoral Training in Health Data Science, Big Data Institute, University of Oxford
 
 **Prepared by, practical leader and lecturer:** [Sharib Ali](sharib.ali@eng.ox.ac.uk)
 
